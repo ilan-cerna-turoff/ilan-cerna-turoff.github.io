@@ -1,0 +1,24 @@
+---
+title: "Publications"
+description: "Publications"
+output:
+  html_document:
+    includes:
+      after_body: footerc.Rhtml
+---
+### <font size="+3"><b>Publications </b></font>
+<br>
+
+Visit my [Google Scholar profile here](https://scholar.google.com/citations?user=_aNfe04AAAAJ&hl=en)
+<br>
+
+### Selected publications:
+
+[Pre-processing data to reduce biases: full matching incorporating an instrumental variable in population-based studies.](https://pubmed.ncbi.nlm.nih.gov/35560220/)
+**Cerna-Turoff, I**, Maurer K, Baiocchi M. International Journal of Epidemiology. 2022 December. doi: 10.1093/ije/dyac097
+PMID: 35560220
+
+<br>
+
+### Selected media coverage:
+[NPR](https://www.npr.org/sections/goatsandsoda/2022/04/12/1091679303/a-report-on-violence-against-kids-with-disabilities-is-sobering-if-not-surprisin)
